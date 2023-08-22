@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1ibdDCqSxe2A-QIb8F7xHcV2DBf7rfBu8/view?usp=sharing)](https://devanshag1151.io)
+[![MasterHead](/Black Technology LinkedIn Banner (1).png)](https://devanshag1151.io)
 <h3 align="center">A passionate Frontend Developer and a Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
