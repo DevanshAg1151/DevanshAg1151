@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshag1151&label=Profile%20views&color=0e75b6&style=flat" alt="devanshag1151" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JS**
 
 - 💬 Ask me about **HTML, CSS**
 
