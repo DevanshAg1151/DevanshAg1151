@@ -5,9 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshag1151&label=Profile%20views&color=0e75b6&style=flat" alt="devanshag1151" /> </p>
 
 
-- 🌱 I’m currently learning **JS**
+- 🌱 Always learning
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS, NextJS, Python, AI/ML, Gen AI**
+
+- ⛓️‍💥 Visit my Portfolio website: **https://devanshcodes.netlify.app**
 
 - 📫 How to reach me **agarwaldeva11@gmail.com**
 
